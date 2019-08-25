@@ -1,5 +1,6 @@
 def roll_call_dwarves(dwarfArray=[])
   dwarfArray.map{|x| puts "#{x}"}
+
   dwarfArray
 end
 
