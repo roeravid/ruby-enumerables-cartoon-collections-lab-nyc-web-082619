@@ -1,4 +1,4 @@
-def roll_call_dwarves(dwarfArray=["Doc", "Dopey", "Bashful", "Grumpy"])
+def roll_call_dwarves(dwarfArray=[])
   dwarfArray.each_with_index{|x| puts x}
 end
 
