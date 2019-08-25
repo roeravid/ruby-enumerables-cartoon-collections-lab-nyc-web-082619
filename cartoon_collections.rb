@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarfArray=["Doc", "Dopey", "Bashful", "Grumpy"])
-  dwarfArray.each_with_index{|x| puts x}
+  dwarfArray.each_with_index-1{|x| puts x}
 end
 
 def summon_captain_planet# code an argument here
